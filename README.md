@@ -1,32 +1,67 @@
-### Hi there! I'm Dinesh Kumar 👋
+# 👋 Hi there, I'm Dinesh Kumar!
 
-I'm a Computer Science student and aspiring software developer with a passion for learning Java, Python, and web development. I'm actively building projects and aiming to make an impact in tech!
+🎓 I'm a B.Tech student in **Computer Science & Engineering** at GIET University, Odisha (2021–2025), passionate about **software development**, innovation, and learning new technologies.  
 
-### About Me
-- 🎓 I'm a final-year Computer Science student at GIET University.
-- 🌱 I’m currently focusing on web development, Java, and data structures.
-- 🎯 Goal: Become a proficient software developer and contribute to open-source projects.
-- 🤝 I’m open to collaborating on beginner-friendly projects and learning together.
+🚀 I enjoy turning ideas into real-world projects and contributing to impactful web applications.
 
-### Languages and Tools:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+---
 
-### 📈 GitHub Stats:
-![Dinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=din-glitch&show_icons=true&theme=radical)
+## 🛠️ Skills & Technologies
 
-### Projects I'm Working On
-- Building a **food recipe website** where users can input ingredients and get recipe suggestions.
-- Working on **Java pattern programs** to strengthen my Java skills.
-- Creating simple **Python data analysis scripts** as I learn more about data analytics.
+- **Languages:** Core Java, SQL
+- **Frameworks:** Spring Boot (Novice), Hibernate, JDBC
+- **Web Development:** HTML, CSS, JavaScript, React.js
+- **Databases:** MySQL
+- **Tools:** Git, GitHub, VS Code, Eclipse
+- **Soft Skills:** Communication, Problem Solving, Teamwork, Adaptability
 
-### Let's Connect:
-- [LinkedIn](https://www.linkedin.com/in/dinesh-kumar-9732b72b8/)
-- [X (formerly Twitter)](https://x.com/Dineshkuma52899)
-- 📫 Email: [dineshkumarkhadangalu@gmail.com](mailto:dineshkumarkhadangalu@gmail.com)
+---
 
-Thanks for visiting my profile! Feel free to reach out if you'd like to connect or collaborate. 😊
+## 💼 Internships
+
+**Full Stack Developer Intern** – *TechNext Solutions* (May–June 2024)  
+• Built responsive front-end pages using HTML, CSS, JavaScript  
+• Worked on back-end logic using Java and MySQL  
+• Enhanced debugging and problem-solving through live projects  
+
+**Web Development Intern** – *Rinex Technologies* (June–July 2023)  
+• Collaborated on both front-end and back-end tasks  
+• Strengthened HTML, CSS, and JavaScript fundamentals  
+• Participated in team-based development and delivery  
+
+---
+
+## 💻 Projects
+
+### 🌐 Smart E-License System  
+A web platform to simplify online driving license applications.  
+- Built with Java, JSP, Servlets, and MySQL  
+- Includes admin, officer, and applicant roles  
+- Features: Online tests, application tracking, and license status
+
+### 💱 Currency Converter Web Application  
+Real-time currency converter using frontend technologies and APIs.  
+- Tech: HTML, CSS, JavaScript (fetch/async-await), REST API  
+- Integrated Exchange Rate API for live currency updates  
+- Designed a responsive and user-friendly UI
+
+---
+
+## 📜 Certifications
+
+- [Career Essentials in Generative AI – Microsoft & LinkedIn](#)
+- [Software Engineering – JPMorgan Chase & Co](#)
+- [SEO (Search Engine Optimization) – Udemy](#)
+
+---
+
+## 🌐 Connect with Me
+
+- 📧 Email: dineshkumarkhadangalu@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/dinesh-kumar-9732b72b8/)  
+- 🌍 [Portfolio Website](https://golden-speculoos-aa129b.netlify.app/)
+
+---
+
+> 💡 "Always eager to learn, build, and grow – one project at a time!"
+
